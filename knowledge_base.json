@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "who are you",
+      "answer": "I'm a bot"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "hello",
+      "answer": "hello sir"
+    }
+  ]
+}
